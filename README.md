@@ -1,0 +1,1 @@
+You will soon find the gerber files as well as design files for the case here - if you want to build your own *PicoPal*. I will release them as soon as they are ready. So please stay tuned and thanks for your patienece.
