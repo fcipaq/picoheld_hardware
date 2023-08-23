@@ -18,6 +18,7 @@ Some notes for PCB production:
 PCB thickness needs to be 1.2 mm (this is important for proper button haptics). Vias need to be untented for the recovery mechanism on the back to work. (Short the exposed via on the back side to ground when turning on the *Pico Held* to force bootloader mode).
 Also, choosing "HASL leadfree" is definitely advised.
 
+![Assembled PCB](board/board_assembled_photo.jpg)
 
 ## Support
 
