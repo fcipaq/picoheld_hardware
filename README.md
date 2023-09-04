@@ -11,6 +11,10 @@ I am currently still looking for a distributor, so currently the only way to get
 
 Please note (as also stated in the liscense): This design and all the files provided come without any warranty. I cannot be held responsible for any damage that might be caused. You build/operate at your own risk.
 
+## Instruction video
+
+This [Youtube](https://youtu.be/bDk0hH1kbgg) video demonstrates how to assemble the *Pico Held*.
+
 ## Case
 
 I had the cases printed over at *JLCPCB* (no affiliation) using resin printing with - in my eyes - a very good result.
